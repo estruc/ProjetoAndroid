@@ -1,0 +1,2 @@
+rootProject.name='EAD Android Java'
+include ':app'
